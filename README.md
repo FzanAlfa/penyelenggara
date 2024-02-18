@@ -1,3 +1,3 @@
 # penyelenggara
  repository ini digunakan sebagai testing fork
- ** ini merupakan teks tambahan **
+ **ini merupakan teks tambahan**
